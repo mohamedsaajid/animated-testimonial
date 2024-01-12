@@ -3,12 +3,12 @@ body {
 }
 
 .carousel {
-    height: 100vh;
-    perspective: 250px;
+    height: 75vh;
+    perspective: 300px;
 }
 
 .carousel .carousel-item {
-    width: 450px;
+    width: 500px;
 }
 
 .card {
@@ -24,14 +24,14 @@ body {
 
 .img-area img{
     border-radius: 50%;
-    border: 7px solid #fff;
-    margin-top: -80px;
-    width: 30%;
+    border: 5px solid #000;
+    margin-top: -75px;
+    width: 35%;
 }
 
 .box1{
     background: #DF826C;
-    height: 120px;
+    height: 125px;
     border-radius: 25px 25px 0 0;
 }
 
@@ -48,10 +48,11 @@ body {
     font-weight: 1000;
     font-size: 30px;
     margin: 0 0 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace
 }
 
 .main-text p{
     font-size: 20px;
-    padding: 0 35px;
+    padding: 0 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
